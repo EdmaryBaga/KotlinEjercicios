@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac1e176d-cf54-41be-afff-7720aeda6de1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AreaOfARectangularRoom.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinEjercicios/META-INF/KotlinEjercicios.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEjercicios/META-INF/KotlinEjercicios.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinEjercicios/NotacionPolacaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEjercicios/NotacionPolacaKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NotacionPolaca.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/NotacionPolaca.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ac1e176d-cf54-41be-afff-7720aeda6de1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AreaOfARectangularRoom.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="101">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -232,6 +226,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.25981873" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.24962063" />
@@ -295,8 +290,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AreaOfARectangularRoom.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="101">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
